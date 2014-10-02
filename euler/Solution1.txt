@@ -1,0 +1,5 @@
+The Program output is 233168
+
+It is checking all the numbers in the range which in this case is (1-1000)
+and dividing the numbers by 3 and 5. All the numbers tht are divisable by 3 and 5 are added to the Total
+and printed in the end.
